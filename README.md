@@ -1,2 +1,2 @@
 # Python-CEC
-Notas del curso de Puython para el CEC
+Notas del curso de Python para el CEC
