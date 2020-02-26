@@ -1,2 +1,2 @@
 # Introducción a Python
-Notas introductorias acerca del lenguaje Python para versiones 3.7 y superiores
+Curso introductorias al lenguaje de programación Python para versiones 3.7 y superiores
