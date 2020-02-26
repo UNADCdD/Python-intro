@@ -1,2 +1,2 @@
-# Python-CEC
-Notas del curso de Python para el CEC
+# Introducción a Python
+Notas introductorias acerca del lenguaje Python para versiones 3.7 y superiores
